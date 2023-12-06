@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\bin\Debug\AssessmentProject.exe.config
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\bin\Debug\AssessmentProject.exe
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\bin\Debug\AssessmentProject.pdb
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\obj\Debug\AssessmentProject.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\obj\Debug\AssessmentProject.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\obj\Debug\AssessmentProject.exe
+C:\Users\User\OneDrive\Desktop\Project Folder\Teacher\AssessmentProject\AssessmentProject\obj\Debug\AssessmentProject.pdb
